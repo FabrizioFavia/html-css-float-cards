@@ -27,20 +27,34 @@ section p{
 }
 
 .midContainer{
-    width: 33%;
-    height: 5.6rem;
-    border: 1px solid black;
-    margin-top: 45px;
+    width: 100%;
+
+}
+
+.smallContainer{
+    width: 30%;
+    height: 5.5rem;
+    margin-top: 40px;
     background-color: #100E17;
+    float: right;
+    margin-right: 25px;
+    box-shadow: 10 5;
+
 }
 
-.midContainer span{
-    margin: 10px 10px;
+.smallContainer span{
+    margin-left: 10px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white;
+    color: white; 
+    margin-top: 3px;
 }
 
-.midContainer :last-child{
+.name{
+    margin-top: 30px;
+    font-weight: 600;
+}
+
+.smallContainer :last-child{
     color: #2289CF;
 }
 
