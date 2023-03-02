@@ -1,0 +1,10 @@
+*{
+    /* font-family: 'Nerko One', cursive; */
+    font-family: 'Fredoka One', cursive;
+}
+
+header :only-child{
+    font-size: 35px;
+    color: #E5316F;
+    text-align: center;
+}
