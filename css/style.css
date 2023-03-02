@@ -17,7 +17,6 @@ header :only-child{
 .mainContainer{
     max-width: 1000px;
     margin: 45px auto;
-    
 }
 
 section p{
@@ -26,3 +25,32 @@ section p{
     font-size: 18px;
     font-weight: 300;
 }
+
+.midContainer{
+    width: 33%;
+    height: 5.6rem;
+    border: 1px solid black;
+    margin-top: 45px;
+    background-color: #100E17;
+}
+
+.midContainer span{
+    margin: 10px 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.midContainer :last-child{
+    color: #2289CF;
+}
+
+img{
+    width: 5.5rem;
+    float: left;
+}
+
+
+.job{
+    display: block;
+}
+
