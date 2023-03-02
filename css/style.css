@@ -38,18 +38,18 @@ section p{
 }
 
 .card{
-    width: 30%;
+    width: 31%;
     height: 5.5rem;
     margin-top: 35px;
     margin-bottom: 10px;
     background-color: #100E17;
     float: right;
     box-shadow: 0.5px 0.5px 10px;
-    margin-right: 20px;
+    margin-right: px;
 }
 
 .customCard{
-margin-right: 30px
+margin-right: 36px
 }
 
 .space{
