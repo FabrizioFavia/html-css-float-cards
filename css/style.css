@@ -33,7 +33,6 @@ header :only-child{
 
 .midContainer .card{
     width: 31%;
-    height: 5.5rem;
     margin-top: 35px;
     margin-bottom: 10px;
     background-color: #100E17;
@@ -79,6 +78,10 @@ margin-right: 36px
 .info .mail{
     color: #5FBAEC;
     font-size: 14px;
+}
+
+.clearfix{
+    clear: both;
 }
 
 
